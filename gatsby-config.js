@@ -6,7 +6,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://mukit1400.github.io',
+    siteUrl: 'http://reza.nyc',
     siteHeadline: 'Mir Reza',
     siteTitle: 'Mir Reza',
     siteTitleAlt: 'Mir Reza | Portfolio | Experiments',
