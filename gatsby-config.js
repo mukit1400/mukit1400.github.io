@@ -21,15 +21,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_ID,
+        trackingId: "G-GLTQHF8QPS",
       },
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `Mir Reza - Portfolio`,
+        short_name: `Reza`,
+        description: `Product manager at Bloomberg LP, building the web experiences that market the iconic Bloomberg Professional Services.`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
