@@ -14,7 +14,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `@lekoarts/gatsby-theme-cara`,
+      resolve: `@lekoarts/gatsby-theme-reza`,
       // See the theme's README for all available options
       options: {},
     },
